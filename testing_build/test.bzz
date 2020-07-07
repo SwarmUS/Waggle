@@ -1,0 +1,12 @@
+###############################################################################
+# NOTE This behavior requires the CMake BBZ_DISABLE_NEIGHBORS option to       #
+#      be OFF.                                                                #
+###############################################################################
+
+function init() {
+}
+
+function step() {
+    print(4)
+    delay(500)
+}
