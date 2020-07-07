@@ -43,6 +43,6 @@ xargs rm < install_manifest.txt
 
 ## Tests
 
-There is no tests at the moment
+There is no tests at the moment.
 
 
