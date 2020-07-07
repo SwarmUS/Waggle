@@ -45,4 +45,5 @@ xargs rm < install_manifest.txt
 
 There is no tests at the moment.
 
+this is wazza
 
