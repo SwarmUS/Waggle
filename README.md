@@ -35,7 +35,7 @@ Then you can install. You will probably need to run as a super user.
 ``` make install ```
 
 ## Uninstalling
-Just use the provided install_manifest.txt after installation in your build directory. Note that you may need to run as a super user for that.
+Just use the provided install_manifest.txt from CMake after installation in your build directory. Note that you may need to run as a super user for that.
 
 ```
 xargs rm < install_manifest.txt
@@ -44,5 +44,4 @@ xargs rm < install_manifest.txt
 ## Tests
 
 There is no tests at the moment.
-
 
